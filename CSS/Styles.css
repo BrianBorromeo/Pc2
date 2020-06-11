@@ -69,7 +69,7 @@ h4{
 
 /*header index*/
 .site-header.inicio {
-    background-image: url(..Pc2/img/main.jpg);
+    background-image: url(Pc2/img/main.jpg);
     background-position:center center;
     background-size: cover;
     height:100vh;
@@ -77,7 +77,7 @@ h4{
 }
 /*header nosotros*/
 .nosotros-header.nosotros-inicio{
-  background-image: url(..Pc2/img/nosotros.png);
+  background-image: url(Pc2/img/nosotros.png);
   background-position:center center;
   background-size: cover;
   height:100vh;
@@ -86,7 +86,7 @@ h4{
 
 /*Header contacto */
 .contacto-header.contacto-inicio{
-  background-image: url(..Pc2/img/contacto.jpg);
+  background-image: url(Pc2/img/contacto.jpg);
   background-position:center center;
   background-size: cover;
   height:100vh;
