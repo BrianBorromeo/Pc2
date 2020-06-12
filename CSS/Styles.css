@@ -68,7 +68,7 @@ h4{
 
 
 /*header index*/
-.site-header.inicio {
+.contenedor .contenido-header {
     background-position:center center;
     background-size: cover;
     height:100vh;
