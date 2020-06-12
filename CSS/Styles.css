@@ -69,11 +69,11 @@ h4{
 
 /*header index*/
 .site-header.inicio {
-    background-image: url(..img/fondo.jpg);
     background-position:center center;
     background-size: cover;
     height:100vh;
     min-height:60rem;
+    background-image: url(..img/fondo.jpg);
 }
 /*header nosotros*/
 .nosotros-header.nosotros-inicio{
