@@ -11,7 +11,6 @@ body{
 .contenedor{
   max-width: 120rem; /** equivale a 1200px**/
   margin:0 auto; /** es como utilizar margin 0 auto 0 auto es decir margin top 0 , right auto bot 0 left auto**/
-  background-image: url(..img/fondo.jpg);
 }
 
 /** Globales **/
@@ -70,11 +69,11 @@ h4{
 
 /*header index*/
 .site-header.inicio{
+    background: url(../img/fondo.jpg);
     background-position:center center;
     background-size: cover;
     height:100vh;
     min-height:60rem;
-    background: url(..img/fondo.jpg);
 }
 /*header nosotros*/
 .nosotros-header.nosotros-inicio{
